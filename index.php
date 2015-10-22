@@ -21,6 +21,12 @@
 
 </div>
 
+<br>
+<div style="width:100%; text-align:center">
+<img src='./images/docusign1.png' />
+</div>
+
+
 <script src="js/jquery.js"></script>
 <script src="js/jquery.feedToJSON.js"></script>
 <script src="js/ical_parser.js"></script>
@@ -29,6 +35,8 @@
 <script src="js/rrule.js"></script>
 <script src="js/main.js?nocache=<?php echo md5(microtime()) ?>"></script>
 <!-- <script src="js/socket.io.min.js"></script> -->
+
+
 
 </body>
 </html>
